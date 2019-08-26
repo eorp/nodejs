@@ -1,2 +1,6 @@
 /node_modules/
 npm-debug.log
+nodejs-ex.iml
+package.json
+package-lock.json
+.idea
